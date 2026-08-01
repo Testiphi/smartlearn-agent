@@ -62,7 +62,7 @@ PDF File
        |  messages array
        v
 +-------------+
-|  LLM Call   |  OpenRouter (qwen/qwen3.5-flash-02-23)
+|  LLM Call   |  OpenRouter (google/gemma-4-26b-a4b-it:free)
 | (OpenRouter)|
 +------+------+
        |  response text

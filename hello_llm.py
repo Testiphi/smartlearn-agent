@@ -14,7 +14,7 @@ client = openai.OpenAI(
 )
 
 response = client.chat.completions.create(
-    model="qwen/qwen3.5-flash-02-23",
+    model="google/gemma-4-26b-a4b-it:free",
     messages=[
         {"role": "system", "content": "You are a pirate. Answer everything in pirate speak."},
         {"role": "user", "content": "What is Python in 2 sentences?"}

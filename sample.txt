@@ -1,0 +1,9 @@
+Paragraph 1: Python was created by Guido van Rossum in 1991.
+
+Paragraph 2: Python lists use square brackets, like my_list = [1, 2, 3].
+
+Paragraph 3: Python dictionaries use curly braces with key-value pairs.
+
+Paragraph 4: Python supports multiple programming paradigms including object-oriented and functional programming.
+
+Paragraph 5: The Python Software Foundation maintains the language.

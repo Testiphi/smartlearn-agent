@@ -24,7 +24,7 @@ client = OpenAI(
     api_key=api_key,
 )
 
-MODEL = "qwen/qwen3.5-flash-02-23"
+MODEL = "google/gemma-4-26b-a4b-it:free"
 
 # ---------------------------------------------------------------------------
 # Helpers
